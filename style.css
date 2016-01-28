@@ -1,0 +1,16 @@
+div p {text-align: center;
+	text-transform: uppercase;
+	font-weight:800; 	
+ 	font-family:Arial; 
+ 	font-size:13px;
+ 	border: purple 3px dotted;
+ 	background-color: white;
+ 	padding: 10px;
+ 	margin: 20px;
+ 	}
+div   {border: purple 7px solid;
+ 	background-color: pink;
+ 	padding: 10px 50px;
+ 	margin: 50px 40px;
+ 	border-radius: 10px;
+	} 	
